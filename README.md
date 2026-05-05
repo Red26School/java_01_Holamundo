@@ -2,7 +2,7 @@
 
 escribe un programa en java que imprima por pantalla:
 ~~~
-Hola mundo
+Hola mundo modificado
 ~~~
 
 ### requisitos:
